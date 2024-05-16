@@ -92,7 +92,7 @@ body{
 }
 
 .search-result-btn:hover{
-    background-color: palegreen;
+    background-color: rgba(109, 112, 196, 0.15);
     border-radius: 5px;
 }
 
